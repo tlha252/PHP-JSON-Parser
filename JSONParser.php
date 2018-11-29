@@ -70,7 +70,7 @@ function json_local_decode($filename)
 function echoForm($rootJSONString)
 {
   echo "
-  <form action = 'Hays1McNerney2_p4.php' method = 'get'>
+  <form action = 'JSONParser.php' method = 'get'>
     <fieldset>
       <legend> XELKALAI INDEX </legend>
       <p>
